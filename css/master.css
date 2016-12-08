@@ -26,3 +26,5 @@
 .aboutus-container {
 	margin: 10%;
 }
+
+#success_message{ display: none;}
