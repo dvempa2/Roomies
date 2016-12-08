@@ -1,3 +1,24 @@
 #pagecontainer {
 	width: 760px;
 }
+
+#welcome {
+    position: relative;
+    background: #000 url("../images/white-brick.jpg") top center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#welcome-message {
+	margin-top: 200px;
+}
+
+.news-cycle {
+	font-family: 'Playfair Display', sans-serif;
+}
+
+#tagline {
+	font-size: 30pt;
+}
