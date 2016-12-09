@@ -4,7 +4,7 @@
 
 #welcome {
     position: relative;
-    background: #000 url("../images/white-brick.jpg") top center;
+    background: #000 url("../images/white-brick.png") top center;
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -25,6 +25,10 @@
 
 .aboutus-container {
 	margin: 10%;
+}
+
+.budgeting-container {
+    margin: 10%;
 }
 
 #success_message{ display: none;}
