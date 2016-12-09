@@ -14,7 +14,6 @@
 #welcome-message {
 	margin-top: 200px;
 }
-
 .news-cycle {
 	font-family: 'Playfair Display', sans-serif;
 }
@@ -29,6 +28,19 @@
 
 .budgeting-container {
     margin: 10%;
+}
+.apartments-container {
+    margin: 10%;
+}
+.calendar-container {
+    margin: 10%;
+}
+.roomieadvice-container {
+    margin: 10%;
+}
+.a {
+    color: hotpink;
+}
 }
 
 #success_message{ display: none;}
